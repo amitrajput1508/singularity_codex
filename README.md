@@ -40,6 +40,10 @@ Zuno AI is powered by **Python 3** and integrates with an exciting mix of techno
 
 ---
 
+![Image](https://github.com/user-attachments/assets/bf0af5d6-413f-4482-ae87-f6a2c1e4a6d7)
+
+![Image](https://github.com/user-attachments/assets/fa6da40e-3b16-488b-af14-daa35f1ba716)
+
 ## 📂 Project Layout
 
 - `backend.py` – The brain: all logic and actions live here  
